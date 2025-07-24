@@ -1,7 +1,7 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
 // TODO: Move this to environment variables for security
-const GEMINI_API_KEY = 'AIzaSyAVz6teqGhtIx8Bz8f2YGCQ3Q-GFHHgaec';
+const GEMINI_API_KEY = 'AIzaSyBk1rO6GpDbRAxuFQTEI2H1RlR6snBbCFg';
 
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 
